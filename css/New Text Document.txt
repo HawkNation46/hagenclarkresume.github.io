@@ -1,0 +1,19 @@
+/*
+Hagen Clark	
+Web Authoring 
+11/29/2020
+*/
+
+/* CSS Reset */
+body, header, nav, main, footer, img, h1, ul, section, aside, figure,
+figcaption {
+	margin: 0;
+	padding: 0;
+	border: 0;
+
+}
+ /* Style rule for Hagen image */
+#hagen {
+	margin: 0 15;
+
+}
